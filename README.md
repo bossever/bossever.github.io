@@ -1,3 +1,3 @@
-## GitHub Pages Repository for hosting miscellaneuos files ##
+## GitHub Pages Repository for hosting miscellaneous files ##
 
 Created on Feb 12, 2021
